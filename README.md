@@ -121,3 +121,21 @@ Date
 ## License
 
 [@MIT](https://github.com/BrianRuizy/covid19-dashboard/blob/master/LICENSE.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
